@@ -1,0 +1,642 @@
+Date: 6/4/2023
+Time: 0:56
+Phone Number: +916287830109
+Image: persons/boris.png
+Caption: 
+--------------------
+Date: 6/4/2023
+Time: 1:50
+Phone Number: +6287830109
+Image: persons/boris.png
+Caption: 
+--------------------
+Date: 6/4/2023
+Time: 16:11
+Phone Number: +916287830109
+Image: persons/AP2.png
+Caption: 
+--------------------
+Date: 6/4/2023
+Time: 19:39
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/4/2023
+Time: 1:8
+Phone Number: +918307777675
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/4/2023
+Time: 1:9
+Phone Number: +918307777675
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/4/2023
+Time: 1:10
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/4/2023
+Time: 1:11
+Phone Number: +918307777675
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/4/2023
+Time: 1:13
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/4/2023
+Time: 1:14
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/4/2023
+Time: 16:9
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 13:22
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 13:23
+Phone Number: +python -u "c:\Users\LENOVO\OneDrive\Desktop\facerecog38\myfile.py"
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 13:24
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 13:24
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 13:30
+Phone Number: +918307777675
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 20:32
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 20:38
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 20:39
+Phone Number: +918299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 20:40
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 20:41
+Phone Number: +918299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 20:42
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 20:42
+Phone Number: +918299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 22:24
+Phone Number: +917462884706
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 22:25
+Phone Number: +917462884706
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 22:26
+Phone Number: +917462884706
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 23:52
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 23:52
+Phone Number: +918299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 23:56
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 9/4/2023
+Time: 23:57
+Phone Number: +918299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 3:29
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 3:30
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 3:31
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 3:32
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 8:26
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 8:26
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 10:5
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 10:5
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 10:34
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 10:35
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 10:59
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 11:0
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 11:1
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 11:1
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 10/4/2023
+Time: 11:2
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:26
+Phone Number: +8299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:27
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:31
+Phone Number: +8299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:32
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:32
+Phone Number: +8299296931
+Image: persons\WhatsApp Image 2023-04-24 at 01.29.58.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:34
+Phone Number: +8847633396
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:34
+Phone Number: +8847633396
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:35
+Phone Number: +8847633396
+Image: persons\WhatsApp Image 2023-04-24 at 01.29.58.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:37
+Phone Number: +8299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:37
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:39
+Phone Number: +8299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:39
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:41
+Phone Number: +8299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:42
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:43
+Phone Number: +8299296931
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:44
+Phone Number: +8299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:44
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:44
+Phone Number: +8299296931
+Image: persons\WhatsApp Image 2023-04-24 at 01.29.58.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:46
+Phone Number: +8299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:47
+Phone Number: +8299296931
+Image: persons\12.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:47
+Phone Number: +8299296931
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:48
+Phone Number: +8299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 24/4/2023
+Time: 1:48
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:12
+Phone Number: +python -u "c:\Users\LENOVO\OneDrive\Desktop\facerecog38\myfile.py"
+Image: persons\12.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:12
+Phone Number: +python -u "c:\Users\LENOVO\OneDrive\Desktop\facerecog38\myfile.py"
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:13
+Phone Number: +python -u "c:\Users\LENOVO\OneDrive\Desktop\facerecog38\myfile.py"
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:13
+Phone Number: +python -u "c:\Users\LENOVO\OneDrive\Desktop\facerecog38\myfile.py"
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:16
+Phone Number: +8299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:16
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:17
+Phone Number: +8299296931
+Image: persons\12.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:18
+Phone Number: +8299296931
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:18
+Phone Number: +8299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 3/5/2023
+Time: 18:18
+Phone Number: +8299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 15:16
+Phone Number: +918299296931
+Image: persons\12.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 15:16
+Phone Number: +918299296931
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 15:16
+Phone Number: +918299296931
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 15:17
+Phone Number: +918299296931
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 23:0
+Group ID: mobileno
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 23:2
+Group ID: mobileno
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 23:14
+Group ID: 918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 5/5/2023
+Time: 23:17
+Phone Number: +918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 6/5/2023
+Time: 11:47
+Group ID: 918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 6/5/2023
+Time: 14:12
+Phone Number: +918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 6/5/2023
+Time: 14:14
+Phone Number: +918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 7/5/2023
+Time: 11:49
+Group ID: 918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 7/5/2023
+Time: 11:56
+Phone Number: +916287830109
+Image: persons\12.png
+Caption: 
+--------------------
+Date: 7/5/2023
+Time: 11:56
+Phone Number: +916287830109
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 7/5/2023
+Time: 11:57
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 7/5/2023
+Time: 11:57
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 7/5/2023
+Time: 22:25
+Phone Number: +918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 12:50
+Phone Number: +916287830109
+Image: persons\12.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 12:51
+Phone Number: +916287830109
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 12:51
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 12:51
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 13:20
+Phone Number: +916287830109
+Image: persons\12.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 13:20
+Phone Number: +916287830109
+Image: persons\AP1.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 13:21
+Phone Number: +916287830109
+Image: persons\AP2.png
+Caption: 
+--------------------
+Date: 8/5/2023
+Time: 13:21
+Phone Number: +916287830109
+Image: persons\PA3.png
+Caption: 
+--------------------
+Date: 10/7/2023
+Time: 13:4
+Group ID: 918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 30/7/2023
+Time: 17:44
+Phone Number: +918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 1/8/2023
+Time: 0:55
+Phone Number: +918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
+Date: 1/8/2023
+Time: 0:58
+Phone Number: +918299296931
+Image: persons\Hardeep1.png
+Caption: 
+--------------------
